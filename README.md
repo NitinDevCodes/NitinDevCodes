@@ -60,7 +60,7 @@ A collection of React applications built to strengthen my frontend development s
 - 🎨 [Background Changer](https://github.com/NitinDevCodes/React-Mini-Projects)
 - 🔐 [Password Generator](https://github.com/NitinDevCodes/React-Mini-Projects)
 - 💱 [Currency Converter](https://github.com/NitinDevCodes/React-Mini-Projects)
-- 🚀 More projects coming soon...
+- 🚀 More in repo..
 
 ---
 
