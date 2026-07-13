@@ -1,13 +1,6 @@
 <h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand">
+Hi Nitin here,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand">
 </h1>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:7F5AF0,50:2CB67D,100:3DA9FC&text=Nitin%20Jha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45"
-    alt="Header Banner"
-  />
-</p>
 
 <p align="center">
   <img
