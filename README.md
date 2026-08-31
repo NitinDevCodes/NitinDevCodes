@@ -41,8 +41,6 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
   <img src="https://skillicons.dev/icons?i=cpp,python,c,js" />
 </p>
 
-### Frontend
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
