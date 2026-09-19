@@ -35,20 +35,20 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 
 ## Tech Stack
 
-### Languages
+### Languages & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,c,js" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,appwrite" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" />
 </p>
 
 ## Featured Projects
