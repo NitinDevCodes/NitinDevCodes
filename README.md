@@ -22,7 +22,7 @@ Hey, I'm Nitin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 
 I enjoy solving algorithmic problems and continuously improving my problem-solving skills.
 
-- ✅ Solved **250+ DSA problems**
+- ✅ Solved **300+ DSA problems**
 - 💡 Strong foundation in Data Structures & Algorithms
 - 🚀 Active across multiple coding platforms
 
