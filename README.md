@@ -42,7 +42,7 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,appwrite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mongodb,mysql,appwrite" />
 </p>
 
 ### Tools & Platforms
@@ -53,16 +53,28 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 
 ## Featured Projects
 
-### 🎨 React Mini Projects
+### 👜 [Carryva - Premium Bag E-commerce](https://github.com/NitinDevCodes/carryva)
+
+A premium handbag shopping experience built with Node.js, Express, EJS, and MongoDB.
+
+- 🛒 Persistent cart, product catalog, and cash-on-delivery order management.
+- 🔐 Authentication, stock validation, security enhancements, and transaction-safe checkout.
+
+### ✍️ [InkFlow - Modern Blogging Platform](https://github.com/NitinDevCodes/InkFlow)
+
+A modern blogging platform built with React, Redux Toolkit, Tailwind CSS, and Appwrite.
+
+- 📝 Create and manage blog posts with a modern, responsive interface.
+- 🔑 Appwrite-powered authentication and backend services, with Redux Toolkit for state management.
+
+### 🎨 [React Mini Projects](https://github.com/NitinDevCodes/React-Mini-Projects)
 
 A collection of React applications built to strengthen my frontend development skills.
-
-**Highlights:**
 
 - 🎨 [Background Changer](https://github.com/NitinDevCodes/React-Mini-Projects)
 - 🔐 [Password Generator](https://github.com/NitinDevCodes/React-Mini-Projects)
 - 💱 [Currency Converter](https://github.com/NitinDevCodes/React-Mini-Projects)
-- 🚀 More in repo.....
+- 🚀 More projects in the repository
 
 ---
 
