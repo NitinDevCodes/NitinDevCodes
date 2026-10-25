@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
 Hey, I'm Nitin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand">
 </h1>
 
@@ -53,6 +53,16 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 
 ## Featured Projects
 
+### ♟️ [Chess Game](https://github.com/NitinDevCodes/CHESS-GAME)
+
+A real-time multiplayer chess game built with Node.js, Express, Socket.IO, EJS, and chess.js.
+
+- ♟️ Real-time two-player gameplay with spectator mode.
+- ⏱️ Independent 10-minute chess clocks with server-side time tracking.
+- 🤝 Draw offers, draw acceptance or rejection, and resignation.
+- 🔄 Automatic game reset after a 10-second disconnect grace period.
+- 🌐 [Live Demo](https://chess-game-w9wn.onrender.com/)
+
 ### 👜 [Carryva - Premium Bag E-commerce](https://github.com/NitinDevCodes/carryva)
 
 A premium handbag shopping experience built with Node.js, Express, EJS, and MongoDB.
@@ -67,15 +77,6 @@ A modern blogging platform built with React, Redux Toolkit, Tailwind CSS, and Ap
 - 📝 Create and manage blog posts with a modern, responsive interface.
 - 🔑 Appwrite-powered authentication and backend services, with Redux Toolkit for state management.
 
-### 🎨 [React Mini Projects](https://github.com/NitinDevCodes/React-Mini-Projects)
-
-A collection of React applications built to strengthen my frontend development skills.
-
-- 🎨 [Background Changer](https://github.com/NitinDevCodes/React-Mini-Projects)
-- 🔐 [Password Generator](https://github.com/NitinDevCodes/React-Mini-Projects)
-- 💱 [Currency Converter](https://github.com/NitinDevCodes/React-Mini-Projects)
-- 🚀 More projects in the repository
-
 ---
 
 ## 🌐 Connect With Me
@@ -83,14 +84,11 @@ A collection of React applications built to strengthen my frontend development s
 - 📧 Email: contactnitin.inbox@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/nitin-jha-a9035b30b/
 
-
 <p align="center">
 || Building software that solves real-world problems ||
 </p>
 
-
 ---
-
 
 <p align="center">
 ⭐ Thanks for the visit! ⭐
