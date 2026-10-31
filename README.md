@@ -1,6 +1,4 @@
- <h1 align="center">
-Hey, I'm Nitin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand">
-</h1>
+# <h1 align="center">Hey, I'm Nitin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand"></h1>
 
 <p align="center">
   <img
@@ -51,6 +49,14 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" />
 </p>
 
+### AI Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT%20%2F%20Codex-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT and Codex"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+</p>
+
 ## Featured Projects
 
 ### ♟️ [Chess Game](https://github.com/NitinDevCodes/CHESS-GAME)
@@ -63,19 +69,24 @@ A real-time multiplayer chess game built with Node.js, Express, Socket.IO, EJS, 
 - 🔄 Automatic game reset after a 10-second disconnect grace period.
 - 🌐 [Live Demo](https://chess-game-w9wn.onrender.com/)
 
-### 👜 [Carryva - Premium Bag E-commerce](https://github.com/NitinDevCodes/carryva)
+### 🔍 [ClaimBack AI - Lost & Found Platform](https://github.com/NitinDevCodes/ClaimBack)
 
-A premium handbag shopping experience built with Node.js, Express, EJS, and MongoDB.
+An AI-assisted lost-and-found platform built with MongoDB, Express, React, Node.js, Google Gemini and Cloudinary.
 
-- 🛒 Persistent cart, product catalog, and cash-on-delivery order management.
-- 🔐 Authentication, stock validation, security enhancements, and transaction-safe checkout.
+- 🤖 Gemini-powered image understanding, attribute extraction and description enhancement.
+- 🔎 AI-assisted matching of lost and found reports with ranked results.
+- 🔐 Secure ownership claims, administrator review and recovery tracking.
+- ☁️ Cloudinary image uploads, notifications and MongoDB-backed workflows.
+- 🌐 [Live Application](https://claimback-dusky.vercel.app/)
 
-### ✍️ [InkFlow - Modern Blogging Platform](https://github.com/NitinDevCodes/InkFlow)
+### 📋 [ApplyTrack - Job Application Tracker](https://github.com/NitinDevCodes/ApplyTrack)
 
-A modern blogging platform built with React, Redux Toolkit, Tailwind CSS, and Appwrite.
+A MERN-based job application tracking platform built to organize and manage the internship and job application process.
 
-- 📝 Create and manage blog posts with a modern, responsive interface.
-- 🔑 Appwrite-powered authentication and backend services, with Redux Toolkit for state management.
+- 📝 Create, update, search and manage job applications.
+- 📊 Track application statuses and schedule interviews.
+- 🔍 Search and filter applications for easier organization.
+- 📱 Responsive interface for desktop and mobile devices.
 
 ---
 
