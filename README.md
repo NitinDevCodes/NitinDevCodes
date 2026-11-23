@@ -46,7 +46,8 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 ### Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vercel,netlify" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
 </p>
 
 ### AI Tools
