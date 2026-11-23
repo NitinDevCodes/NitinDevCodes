@@ -60,16 +60,6 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 
 ## Featured Projects
 
-### ♟️ [Chess Game](https://github.com/NitinDevCodes/CHESS-GAME)
-
-A real-time multiplayer chess game built with Node.js, Express, Socket.IO, EJS, and chess.js.
-
-- ♟️ Real-time two-player gameplay with spectator mode.
-- ⏱️ Independent 10-minute chess clocks with server-side time tracking.
-- 🤝 Draw offers, draw acceptance or rejection, and resignation.
-- 🔄 Automatic game reset after a 10-second disconnect grace period.
-- 🌐 [Live Demo](https://chess-game-w9wn.onrender.com/)
-
 ### 🔍 [ClaimBack AI - Lost & Found Platform](https://github.com/NitinDevCodes/ClaimBack)
 
 An AI-assisted lost-and-found platform built with MongoDB, Express, React, Node.js, Google Gemini and Cloudinary.
@@ -88,6 +78,16 @@ A MERN-based job application tracking platform built to organize and manage the 
 - 📊 Track application statuses and schedule interviews.
 - 🔍 Search and filter applications for easier organization.
 - 📱 Responsive interface for desktop and mobile devices.
+
+### ♟️ [Chess Game](https://github.com/NitinDevCodes/CHESS-GAME)
+
+A real-time multiplayer chess game built with Node.js, Express, Socket.IO, EJS, and chess.js.
+
+- ♟️ Real-time two-player gameplay with spectator mode.
+- ⏱️ Independent 10-minute chess clocks with server-side time tracking.
+- 🤝 Draw offers, draw acceptance or rejection, and resignation.
+- 🔄 Automatic game reset after a 10-second disconnect grace period.
+- 🌐 [Live Demo](https://chess-game-w9wn.onrender.com/)
 
 ---
 
